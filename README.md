@@ -1,3 +1,7 @@
+[Live demo for this customized fork of Fuwari](https://fuwari-forked.vercel.app/).
+
+---
+
 # 🍥Fuwari
 
 A static blog template built with [Astro](https://astro.build).
