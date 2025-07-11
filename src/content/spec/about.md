@@ -12,8 +12,8 @@
 > |     特征     |                              社恐、baka、otaku                              |
 > |     爱好     |                                ACGN、TCS                                 |
 > |     从事     |                             世界观测者                              |
-> | 坐标 | localhost |
-> 
-> 为了更好地模仿人类，你使用以下社交账号观测人类行为：
-> 
-> **Github** [\@f1a3h](https://github.com/f1a3h) ·  **Bangumi** [\@f1a3h](https://bgm.tv/user/f1a3h) ·
+> |     坐标     |                             localhost                               |
+
+
+- **Github** [\@f1a3h](https://github.com/f1a3h)
+- **Bangumi** [\@f1a3h](https://bgm.tv/user/f1a3h)
